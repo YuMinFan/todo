@@ -1,0 +1,21 @@
+{
+  "name": "mytodo",
+  "description": "> Template used for creating [TodoMVC](http://todomvc.com) apps",
+  "main": "index.js",
+  "authors": [
+    "YuMinFan <whislience@163.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "store2": "store#^2.5.2",
+    "jquery": "^3.2.1"
+  }
+}
